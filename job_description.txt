@@ -1,0 +1,33 @@
+Roles & Responsibilities:
+
+Configures and manages security solutions such as firewalls, intrusion detection/prevention systems (IDS/IPS), endpoint protection, and data loss prevention (DLP) solutions.
+Communicates technical information to non-technical users and collaborate with different teams successfully.
+Contributes to the overall success of the company by performing all other duties and responsibilities as assigned by line manager.
+Performs cybersecurity reviews and identify gaps in security architecture, to develop cybersecurity risk management plans.
+Defines system security context, concept of operations and baseline requirements in line with applicable cybersecurity policies.
+Writes detailed functional specifications that document the architecture development process.
+Develops enterprise architecture or system components required to meet user needs.
+Determines security controls for information systems and networks and document appropriately.
+Defines appropriate availability levels for critical system functions and disaster recovery and continuity of operations requirements to deliver them.
+Develops and integrates cybersecurity designs for systems and networks with multilevel security requirements.
+Designs systems and solutions to support successful proofs-of-concept and pilot projects in emerging technology areas.
+Evaluates and determines the adequacy of security architectures and designs.
+Designs, implements, tests, and evaluates secure interfaces between information systems, physical systems, and embedded technologies.
+Identifies the third-party system integration requirements and work with the in-house professional services and / or outside system integrator partners to deliver integration solutions to meet the needs of the customer.
+Leads the projects to ensures project delivered as designed on time and to the satisfaction of the customer.
+ 
+
+Skills:
+
+Expert proficiency in determining the security control requirements of information systems and networks.
+Expert proficiency in designing the integration of technology processes and solutions, including legacy systems and modern programming languages.
+Expert proficiency ill in applying cybersecurity and privacy principles to organizational requirements.
+Strong expertise in determining the security control requirements of information systems and networks.
+Strong expertise in designing the integration of technology processes and solutions, including legacy systems and modern programming languages.
+Strong expertise ill in applying cybersecurity and privacy principles to organizational requirements.
+Strong expertise in determining the normal operational state for security systems and how that state is affected by change.
+Strong expertise in designing the integration of hardware and software solutions.
+Strong expertise in applying and incorporating information technologies into proposed solutions.
+Strong expertise of security protocols, cryptography, authentication, authorization, and security.
+Strong expertise in Security technology domain with demonstrated expertise in one or more of the following areas - AAA, Firewall, IPS/IDS, Access Control, Encryption, VPN, Web security, Mail security, IAM, EDR, DLP, WAF, SIEM, PAM, IAM, SOAR.
+Strong expertise in troubleshooting and implementing Security solutions across Enterprise and Service provider environments.
